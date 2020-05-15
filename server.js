@@ -1,4 +1,4 @@
-const STRIPE_SECRET_KEY = "sk_test_LHISgDp71IuPEWP53riys49f003qGhewue";
+const STRIPE_SECRET_KEY = "";
 
 const stripe = require("stripe")(STRIPE_SECRET_KEY);
 
